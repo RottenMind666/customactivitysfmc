@@ -1,1 +1,1 @@
-web: composer update
+web: customappsfmc public/
