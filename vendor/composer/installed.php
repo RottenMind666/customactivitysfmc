@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'dbdbb9b626c9fc6eb8ee70e4bd3a62e7106abd56',
+        'reference' => '319844c8c45b15778920595fdbd6688338bcd20d',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -50,12 +50,12 @@
             'dev_requirement' => false,
         ),
         'doctrine/inflector' => array(
-            'pretty_version' => '2.0.9',
-            'version' => '2.0.9.0',
+            'pretty_version' => '2.0.10',
+            'version' => '2.0.10.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../doctrine/inflector',
             'aliases' => array(),
-            'reference' => '2930cd5ef353871c821d5c43ed030d39ac8cfe65',
+            'reference' => '5817d0659c5b50c9b950feb9af7b9668e2c436bc',
             'dev_requirement' => false,
         ),
         'doctrine/lexer' => array(
@@ -394,7 +394,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'dbdbb9b626c9fc6eb8ee70e4bd3a62e7106abd56',
+            'reference' => '319844c8c45b15778920595fdbd6688338bcd20d',
             'dev_requirement' => false,
         ),
         'laravel/pint' => array(
